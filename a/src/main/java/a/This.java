@@ -14,7 +14,7 @@
  * authorization from Pegasystems Inc.
 */
 
-package a;
+package A;
 
 public class This {
 
